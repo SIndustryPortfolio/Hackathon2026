@@ -1,0 +1,39 @@
+{
+    "FullScreen": 
+    {
+        "DisplayName": "Full Screen",
+        "Icon": "Static/Images/fullscreenicon.png"
+    },
+    "InternetExplorer": 
+    {
+        "DisplayName": "Internet Explorer",
+        "Icon": "Static/Images/ieicon.png"
+    },
+    "FileExplorer": 
+    {
+        "DisplayName": "File Explorer",
+        "Icon": "Static/Images/filicon.png"
+    },
+    "Printer": 
+    {
+        "DisplayName": "Printer",
+        "Icon": "Static/Images/printicon.png"
+    },
+    "MicrosoftPaint": 
+    {
+        "DisplayName": "Microsoft Paint",
+        "Icon": "Static/Images/painticon.png"
+    },
+    "Minecraft": 
+    {
+        "DisplayName": "Minecraft",
+        "Icon": "Static/Images/mcicon.png"
+    },
+    "RecycleBin": 
+    {
+        "DisplayName": "Recycle Bin",
+        "Icon": "Static/Images/recyclbinicon.png"
+    }
+
+
+}

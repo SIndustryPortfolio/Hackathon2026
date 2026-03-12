@@ -1,0 +1,74 @@
+/*------------------- GENERAL STYLING ---------------------*/
+/*------------------- REUSED FROM PERSONAL WEBSITE PROJECT RE PSYCHED ---------------------*/
+
+*  /* is used for root styling */
+{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    color: white;
+    list-style: none;
+    text-align: center;
+    min-width: 0%;
+    font-family: Tahoma, sans-serif;
+    font-weight: 700;
+    font-style: bold, italic;
+}
+
+
+img /* Prevents Image Shrinking */
+{
+flex-shrink: 0;
+}
+
+/* flex grid example taken from https://css-tricks.com/dont-overthink-flexbox-grids/ */
+
+body
+{
+    background-color:#12522f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-image:url(xpbliss1080p.webp); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size:cover;
+}
+
+/* Example Animation code taken from https://codepen.io/sungaila/pen/LzMgjE */
+
+
+/* Example Animation code taken from https://codepen.io/sungaila/pen/LzMgjE */
+
+
+/* BASIC SECTION STYLING */
+
+
+
+section
+{
+    margin-top: 0.5rem;
+}
+
+section p
+{
+    margin-bottom: 1rem;
+}
+
+/* WHEN REACHING A MINIMUM SIZE OF 720P SCREENS, WILL CHANGE TO VERTICAL FORMAT */
+
+
+/* Scroll text from https://codepen.io/sizhik/pen/oNmYYJJ */
+
+@media screen and (max-width:1024px) 
+{
+  
+
+    header ul li img
+    {
+        width: 1.9rem;
+        height: 1.9rem;
+        margin: 0.1vw;
+        transition: all 0.1s ease-in;
+    }
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+
+    <meta name="description" content=""> 
+
+    <link rel="stylesheet" href="Static\Style\styles.css">
+    <link rel="stylesheet" href="Static\Style\taskbar.css">
+    <link rel="stylesheet" href="Static\Style\bsod.css">
+    <link rel="stylesheet" href="Static\Style\LoadingBar.css">
+    <link rel="stylesheet" href="Static\Style\App.css">
+    <link rel="stylesheet" href="Static\Style\draggable.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=BBH+Bartle&display=swap" rel="stylesheet">
+</head>
+
+<body></body> <!-- DONT ADD TO THIS!!  USE Static/Templates/Templates/Components INSTEAD -->
+
+<script type="module">
+    import CoreComponentModule from "./Static/Scripts/Core.js";
+
+    if (document.readyState === "loading") {
+        document.addEventListener("load", () => 
+        {
+            return CoreComponentModule.Initialise();
+        });   
+    } 
+    else 
+    {
+        CoreComponentModule.Initialise();
+    }
+
+    window.addEventListener("beforeunload", () => 
+    {
+        return CoreComponentModule.End();
+    });
+
+</script>
+
+</html>
