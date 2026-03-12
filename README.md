@@ -56,6 +56,7 @@ All while running entirely client-side.
 - Error pop-ups
 - **Blue Screen of Death**
 - Boot screen that intentionally slows near completion
+- Indefinite boot loop
 
 ---
 
