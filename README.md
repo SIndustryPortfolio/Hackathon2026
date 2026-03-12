@@ -6,7 +6,9 @@
 > ⏱ Built in ~10 hours (including planning)
 
 > Team Credits:
+<br>
 > Integrations / Scripting: https://github.com/SIndustryPortfolio
+<br>
 > Design / UI & UX: https://github.com/schrls-designs
 
 The project simulates a desktop operating system inside the browser while intentionally introducing frustration, delays, and absurd behaviour — turning the user experience into a slightly painful one.
