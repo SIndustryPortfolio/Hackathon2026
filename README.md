@@ -67,6 +67,3 @@ Panedows-XP embraces chaos in the **user experience**, while keeping the **code 
 
 > The UI is chaos.  
 > The code is not.
-```bash
-npm install
-npm run dev
