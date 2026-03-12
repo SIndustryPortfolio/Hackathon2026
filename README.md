@@ -14,6 +14,11 @@ The project simulates a desktop operating system inside the browser while intent
 **Pane** as in *window*.  
 **Pain** as in *the experience.*
 
+<img width="372" height="264" alt="image" src="https://github.com/user-attachments/assets/5774f286-8bc9-47fe-aef2-5bba60acd989" />
+<img width="372" height="264" alt="image" src="https://github.com/user-attachments/assets/a8f303d1-b0f0-4fd4-a6ef-0fb5779c67b1" />
+<img width="372" height="264" alt="image" src="https://github.com/user-attachments/assets/322f675d-0ddd-4211-954e-4b4affe8777b" />
+
+
 ---
 
 ## Concept
