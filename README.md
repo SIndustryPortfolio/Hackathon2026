@@ -73,4 +73,3 @@ Panedows-XP embraces chaos in the **user experience**, while keeping the **code 
 
 > The UI is chaos.  
 > The code is not.
->>>>>>> 74ea41632a064ec5bc31967ac957a3239569e17c
