@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# hackathon26webrepo
-creation chaos
-=======
 # 🪟 Panedows-XP
 
 **Panedows-XP** is a chaotic, browser-based parody of Windows XP created for a hackathon with the theme **“Chaos Creations.”**
